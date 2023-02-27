@@ -7,4 +7,4 @@
 
 
 ## DEMO
-![화면 기록 2023-02-27 오후 4 44 51](https://user-images.githubusercontent.com/68676844/221504156-9bf2485a-460b-4f86-9f5e-f102e6d65106.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/68676844/221526546-543838c6-57a5-434e-be68-c1d7fcddb96e.gif)
