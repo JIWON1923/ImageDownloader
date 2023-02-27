@@ -13,11 +13,11 @@ class ViewController: UIViewController {
     @IBOutlet var loadButtons: [UIButton]!
     
     private let webImageURL = [
-    "https://user-images.githubusercontent.com/68676844/221489275-d8fd112c-56cc-45f6-926e-418ec907619c.jpg",
-    "https://user-images.githubusercontent.com/68676844/221489336-8606866a-2aeb-497c-a4c0-5e5c6f0e00d8.jpg",
-    "https://user-images.githubusercontent.com/68676844/221489406-e4ef9ab4-c9fa-4d49-8a89-3f446227e73f.jpg",
-    "https://user-images.githubusercontent.com/68676844/221489500-bcac2c01-d4ff-4162-a1bf-e02ab3ec36d8.jpg",
-    "https://user-images.githubusercontent.com/68676844/221501500-c34fe3be-d9bc-407e-8101-aa311039958c.jpg"
+    "https://user-images.githubusercontent.com/68676844/221502655-7e612cec-c9cd-4828-a691-682508c84535.jpeg",
+    "https://user-images.githubusercontent.com/68676844/221502683-4202d70f-810d-4719-ac52-79d155c6c6d8.jpeg",
+    "https://user-images.githubusercontent.com/68676844/221502703-c254f03a-45ce-43e4-aa61-3e707ccca4e0.jpeg",
+    "https://user-images.githubusercontent.com/68676844/221502724-d09ae5ff-3689-425a-a3e5-66ad2ccc13cc.jpeg",
+    "https://user-images.githubusercontent.com/68676844/221502749-38c21a8f-1862-4f35-9111-b877484993bf.jpeg"
     ]
     
     
